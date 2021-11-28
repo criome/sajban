@@ -71,10 +71,7 @@ science: /communication logic/.
 *** Contact
 
 Until sajban has a working prototype, exchanges will be held in a room
-on [[https://matrix.org][matrix.org]]: -
-[[https://matrix.to/#/#sajban:matrix.org][#sajban:matrix.org]] for
-read-only announcements -
-[[https://matrix.to/#/#sajban-dev:matrix.org][#sajban-dev:matrix.org]]
-for development-related talk -
-[[https://matrix.to/#/#uranium:matrix.org][#uranium:matrix.org]] for
-nuclear-disarming talk (warning: easy-ban)
+on [[https://matrix.org][matrix.org]]:
+- [[https://matrix.to/#/#sajban:matrix.org][#sajban:matrix.org]] for Sajban Space
+- [[https://matrix.to/#/#sajban-blog:matrix.org][#sajban-blog:matrix.org]] for read-only minimal feed  
+- [[https://matrix.to/#/#sajban-dev:matrix.org][#sajban-dev:matrix.org]] for development-related talk
