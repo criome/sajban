@@ -1,0 +1,4 @@
+(package sajban  []
+
+ (defmacro datom-macro
+   [datom Datom] -> ()))
