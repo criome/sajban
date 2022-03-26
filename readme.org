@@ -52,16 +52,7 @@ storage most of the time. Combined with its object-like properties,
 sajban becomes a natural fit for ultra-secure multi-airgaps and
 multi-key-holders systems.
 
-Important: Unless /all/ nuclear reactors are /immediatly/ shut down and
-/all nuclear waste/ properly disposed of (which is practically
-impossible), /life on Earth will cease to exist within a few
-centuries/ - The greatest ennemy of life in the universe is /nuclear
-radiation/. Anyone reading this has now been warned, and /will/ be held
-liable by today's children for any action which might add momentum to
-the already quasi-unsolvable problem.
-
 *** Notes
-
 **** Name
 
 Sajban is lojban for 'Knowledge Language'. Lojban is very close in
