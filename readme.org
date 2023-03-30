@@ -64,6 +64,6 @@ science: /communication logic/.
 
 Until sajban has a working prototype, exchanges will be held in a room
 on [[https://matrix.org][matrix.org]]:
-- [[https://matrix.to/#/#sajban:matrix.org][#sajban:matrix.org]] for Sajban Space
-- [[https://matrix.to/#/#sajban-blog:matrix.org][#sajban-blog:matrix.org]] for read-only minimal feed  
-- [[https://matrix.to/#/#sajban-dev:matrix.org][#sajban-dev:matrix.org]] for development-related talk
+- [[https://matrix.to/#/#kriom:matrix.org][#kriom:matrix.org]] for Sajban Space
+- [[https://matrix.to/#/#KriomLog:matrix.org][#KriomLog:matrix.org]] for read-only minimal feed  
+- [[https://matrix.to/#/#KriomDev:matrix.org][#KriomDev:matrix.org]] for development-related talk
