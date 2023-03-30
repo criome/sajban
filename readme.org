@@ -1,4 +1,5 @@
 * Sajban: The Language of Knowledge
+First implemented as [[https://github.com/sajban/aski][aski]].
 
 ** Universal Distributed Computing: The /Silicone/ is the OS
 
