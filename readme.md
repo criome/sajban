@@ -1,24 +1,29 @@
 # Sajban: The Language of Knowledge
 ## Universal Distributed Computing: The *Silicone* is the OS
 Self-describing, asynchronous-logic, signature-authenticated
-object-messages to build the most sophisticated computer systems possible.
+object-messages to build the most sophisticated computer systems
+possible.
 
 ## Design
 ### Philosophy
 
 > He who writes in blood and proverbs does not want to be read, but
-> learnt by heart.
-> ~ F. Nietzsche
+> learnt by heart.  ~ F. Nietzsche
 
 Sajban's design is guided by perfection, which is best embodied in
 living organisms. In other words, sajban aims to be the sole framework
-used anywhere. Hence, the entire architecture must leave absolutely no room for improvement by
-the last major revision.
+used anywhere. Hence, the entire architecture must leave absolutely no
+room for improvement by the last major revision.
 
 ### Technicalities
 #### Real Computer format
 
- Computers do no understand text, which means *there is not a single computer-code framework in existence today*. All of the prevalent bronze-age-script-formated "pseudo-codes" in use today must first be *parsed* into logically-meaningful binary trees before computers can make any use of them. This in turn brings *immense* problems in terms of correctness, performance, innovation and usability.
+ Computers do no understand text, which means *there is not a single
+ computer-code framework in existence today*. All of the prevalent
+ bronze-age-script-formated "pseudo-codes" in use today must first be
+ *parsed* into logically-meaningful binary trees before computers can
+ make any use of them. This in turn brings *immense* problems in terms
+ of correctness, performance, innovation and usability.
 
 #### Self-describing objects - *Data* is the database
 
@@ -53,7 +58,10 @@ science: *communication logic*.
 Until sajban has a working prototype, exchanges will be held in a room
 on [matrix.org](https://matrix.org):
 
--   [#criome:matrix.org](https://matrix.to/#/#criome:matrix.org) for Sajban Space
--   [#CriomeLog:matrix.org](https://matrix.to/#/#CriomeLog:matrix.org) for read-only minimal feed
--   [#CriomeDev:matrix.org](https://matrix.to/#/#CriomeDev:matrix.org) for development-related talk
+-   [#criome:matrix.org](https://matrix.to/#/#criome:matrix.org) for
+    Sajban Space
+-   [#CriomeLog:matrix.org](https://matrix.to/#/#CriomeLog:matrix.org)
+    for read-only minimal feed
+-   [#CriomeDev:matrix.org](https://matrix.to/#/#CriomeDev:matrix.org)
+    for development-related talk
 
