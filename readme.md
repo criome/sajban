@@ -2,7 +2,7 @@
 ## Universal Distributed Computing: The *Silicone* is the OS
 Self-describing, asynchronous-logic, signature-authenticated
 object-messages to build the most sophisticated computer systems
-possible.
+possible. Self-optimizing software remains optimal, *forever.*
 
 ## Design
 ### Philosophy
